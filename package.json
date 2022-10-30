@@ -8,7 +8,7 @@
 
   "scripts": {
   "start": "node server/index.js",
-  "build": "cd client && npm install --legacy-peer-deps && npm run build",
+  "build":"npm run build",
   "test": "echo \"Error: no test specified\" && exit 1"
   
   },
