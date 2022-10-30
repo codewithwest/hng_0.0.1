@@ -22,7 +22,7 @@ app.use("/api", (req, res) => {
   // jason backend data
     res.json(
       {
-        "slackUsername": "Jon West",
+        "slackUsername": "Mankga Lekgau",
         "backend": true,
         "age": 23,
         "bio":"Full Time Athlete, self-taught develper. 23 years of age from south africa"
